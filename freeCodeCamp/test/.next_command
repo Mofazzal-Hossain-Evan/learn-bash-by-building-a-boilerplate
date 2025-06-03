@@ -25,3 +25,4 @@ ls --color=auto
 cd src
 pd
 pwd
+ls --color=auto
