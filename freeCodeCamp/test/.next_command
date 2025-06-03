@@ -23,3 +23,5 @@ clea
 clear
 ls --color=auto
 cd src
+pd
+pwd
