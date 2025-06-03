@@ -103,3 +103,6 @@ mv menlo.font menlo.otf
 ls --color=auto
 mkdir fonts
 ls --color=auto
+mv lato.ttf font
+mv lato.ttf fonts
+mv roboto.woff fonts
