@@ -60,3 +60,4 @@ ls --color=auto -a
 cd .
 pwd
 touch background.jpg
+touch header.png
