@@ -22,3 +22,4 @@ more LICENSE-MIT
 clea
 clear
 ls --color=auto
+cd src
