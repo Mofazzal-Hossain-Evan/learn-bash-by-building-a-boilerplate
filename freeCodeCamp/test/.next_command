@@ -21,3 +21,4 @@ more license
 more LICENSE-MIT
 clea
 clear
+ls --color=auto
