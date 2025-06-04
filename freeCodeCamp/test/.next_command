@@ -178,3 +178,5 @@ find website
 find
 cd website
 find
+cp lato.ttf fonts
+mv lato.ttf fonts
